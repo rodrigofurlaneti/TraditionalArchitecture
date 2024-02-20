@@ -1,1 +1,5 @@
-![image](https://github.com/rodrigofurlaneti/TraditionalArchitecture/1.png)
+![image](https://github.com/rodrigofurlaneti/TraditionalArchitecture/blob/master/1.png)
+![image](https://github.com/rodrigofurlaneti/TraditionalArchitecture/blob/master/2.png)
+![image](https://github.com/rodrigofurlaneti/TraditionalArchitecture/blob/master/3.png)
+![image](https://github.com/rodrigofurlaneti/TraditionalArchitecture/blob/master/4.png)
+![image](https://github.com/rodrigofurlaneti/TraditionalArchitecture/blob/master/5.png)
